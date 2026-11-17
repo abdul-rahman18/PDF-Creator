@@ -1,8 +1,16 @@
+
 # 📸 PDF Creator - Chronological Image to PDF Converter
 
-\<p align="center">   \<strong>Turn a folder full of screenshots into a beautifully ordered PDF.\</strong>   \<br>   Automatically organize iPhone and macOS screenshots by their capture date and time, then combine them into a single PDF. \</p>
+**Turn a folder full of screenshots into a beautifully ordered PDF.**
 
-\<p align="center">   ![Python]\([https://img.shields.io/badge/Python-3.9%2B-blue?logo=python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python))   ![Platform]\([https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple))   ![License]\([https://img.shields.io/badge/License-MIT-green](https://img.shields.io/badge/License-MIT-green))   ![Status]\([https://img.shields.io/badge/Status-Active-success](https://img.shields.io/badge/Status-Active-success)) \</p>
+Automatically organize iPhone and macOS screenshots by their capture date and time, then combine them into a single PDF.
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+---
 
 ---
 
