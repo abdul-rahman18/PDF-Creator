@@ -530,8 +530,12 @@ You are free to use, modify and distribute this project under the terms of the l
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Built with Python 🐍\</strong>
-&#x20; \<br>
-&#x20; Automating the boring stuff, one screenshot at a time.
-\</p>
+---
+
+<div align="center">
+
+**Built with Python 🐍**
+
+*Automating the boring stuff, one screenshot at a time.*
+
+</div>
